@@ -1,4 +1,4 @@
-# StripeRustNet
+# StripeRust-Pocket
 
 Our paper is under review.
 
