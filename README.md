@@ -9,5 +9,5 @@ All images used for training and testing
 
 # Application
 
-The StripeRustNet application install program
+The StripeRust-Pocket application install program
 
