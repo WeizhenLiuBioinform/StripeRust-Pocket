@@ -11,3 +11,4 @@ All images used for training and testing
 
 The StripeRust-Pocket application install program
 
+Please use git lfs pull to downlowd the repository
