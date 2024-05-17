@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DeepLab3</string>
+    <string name="an_image">an image</string>
+    <string name="image_view">Image View</string>
+    <string name="segment">Severity</string>
+    <string name="run_model">Running the model...</string>
+    <string name="select">Photos</string>
+    <string name="introduction">This is a test</string>
+    <string name="start">Start</string>
+    <string name="file">file</string>
+    <string name="action_settings">action_settings</string>
+
+
+</resources>
