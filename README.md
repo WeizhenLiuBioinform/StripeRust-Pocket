@@ -16,7 +16,7 @@ git lfs pull
 
 ## Application-Installation
 
-The installation files for the complete APP are located in the application folder. Supports phones with Android version 9.0 or above.
+The installation files for the complete APP are located in the Application folder. Supports phones with Android version 9.0 or above.
 
 ### How to use the APP
 Our APP consists of three pages, and the detailed content and related usage methods of each page are as follows：
