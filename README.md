@@ -44,13 +44,13 @@ The result display page presents the visual outcome of lesion segmentation, user
 The application comprises five modules: the image acquisition module, image segmentation module, disease severity 
 quantification module, result display module, and result export module.
 
-1.MainActivity_bg.java: Its main function is to display the start page.
-2.MainActivity.java: This file is the core of the entire app. It integrates functions such as loading deep learning 
+1. MainActivity_bg.java: Its main function is to display the start page.
+2. MainActivity.java: This file is the core of the entire app. It integrates functions such as loading deep learning 
 models, calling pop-up windows, calling models for image segmentation, displaying running results, saving images, 
 and calculating disease severity.
-3.MainActivity_table.java and MainActivity_table_2.java: They respectively represent the presentation of results in 
+3. MainActivity_table.java and MainActivity_table_2.java: They respectively represent the presentation of results in 
 the form of images and the presentation of results in the form of Excel spreadsheets. Among them, 
 MainActivity_table_2 uses Smart Table technology, as detailed in https://github.com/huangyanbin/smartTable
-4.The two deep learning models used in the APP are both in /app/src/main/assets.
-5.All static files are located in/app/src/main/res/layout. The style settings file and string settings file are 
+4. The two deep learning models used in the APP are both in /app/src/main/assets.
+5. All static files are located in/app/src/main/res/layout. The style settings file and string settings file are 
 located in/app/src/main/res/values.
