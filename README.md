@@ -2,8 +2,6 @@
 
 This repository contains the code and dataset for the paper "StripeRust-Pocket: A Mobile-based Deep Learning Application for Efficient Disease Severity Assessment of Wheat Stripe Rust," accepted at Plant Phenomics. StripeRust-Pocket can accurately measure the severity of wheat stripe rust disease by taking photos or selecting photos from albums. It can also organize the result data and save the results in an Excel format and send them via email.
 
-![MFCIS online platform](https://github.com/WeizhenLiuBioinform/mfcis/blob/master/logo.jpg)
-
 ## Start
 
 First of all, due to the presence of large files in the repository, please go to the official website of git lfs to download the tool.
@@ -25,7 +23,7 @@ Our APP consists of three pages, and the detailed content and related usage meth
 
 1.The startup page
 This page initializes the various modules and loads the StripeRustNet deep learning model. After clicking the "Start" button, users are guided to the main page.
-![MFCIS online platform](https://github.com/WeizhenLiuBioinform/mfcis/blob/master/logo.jpg)
+![MFCIS online platform](https://github.com/WeizhenLiuBioinform/StripeRust-Pocket/Application_source_code/app/src/main/assets/图片1.jpg)
 
 2.The main page
 The main page consists of a central display area and three buttons: "Photo," "Severity," and a toggle button in the top left corner. By clicking the "Photo" button, a selection box will pop up, allowing users to choose to capture images using the built-in camera or select images directly from their phone gallery. The selected image is displayed in the central display area.Users can enter the result image's ID and date and save it on their phone. After clicking the save button, the segmentation result will also be displayed on the main page. By clicking the toggle button in the top right corner, users can switch to the results display page. 
