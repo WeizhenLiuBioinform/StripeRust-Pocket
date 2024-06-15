@@ -37,7 +37,7 @@ The result display page presents the visual outcome of lesion segmentation, user
 
 
 ## Application-Code
-# Prerequisites
+### Prerequisites
 * Android studio 2021.3.1
 
 ### Introduction
