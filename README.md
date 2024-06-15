@@ -23,7 +23,7 @@ Our APP consists of three pages, and the detailed content and related usage meth
 
 1.The startup page
 This page initializes the various modules and loads the StripeRustNet deep learning model. After clicking the "Start" button, users are guided to the main page.
-![The startup page](https://github.com/WeizhenLiuBioinform/StripeRust-Pocket/tree/master/Application_source_code/app/src/main/assets/The_startup_page.jpg)
+![The startup page](https://github.com/WeizhenLiuBioinform/StripeRust-Pocket/blob/master/Application_source_code/app/src/main/assets/The_startup_page.jpg)
 
 2.The main page
 The main page consists of a central display area and three buttons: "Photo," "Severity," and a toggle button in the top left corner. By clicking the "Photo" button, a selection box will pop up, allowing users to choose to capture images using the built-in camera or select images directly from their phone gallery. The selected image is displayed in the central display area.Users can enter the result image's ID and date and save it on their phone. After clicking the save button, the segmentation result will also be displayed on the main page. By clicking the toggle button in the top right corner, users can switch to the results display page. 
