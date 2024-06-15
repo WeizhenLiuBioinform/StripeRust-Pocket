@@ -20,7 +20,7 @@ git lfs pull
 
 The installation files for the complete APP are located in the application folder. Supports phones with Android version 9.0 or above.
 
-# How to use the APP
+### How to use the APP
 Our APP consists of three pages, and the detailed content and related usage methods of each page are as follows：
 
 1.The startup page
@@ -40,7 +40,7 @@ The result display page presents the visual outcome of lesion segmentation, user
 # Prerequisites
 * Android studio 2021.3.1
 
-# Introduction
+### Introduction
 The application comprises five modules: the image acquisition module, image segmentation module, disease severity quantification module, result display module, and
 result export module.
 1.MainActivity_bg.java: Its main function is to display the start page.
