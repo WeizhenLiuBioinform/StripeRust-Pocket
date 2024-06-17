@@ -68,6 +68,12 @@ MainActivity_table_2 uses Smart Table technology, as detailed in https://github.
 located in/app/src/main/res/values.
 
 ## Dataset <a name="Dataset"></a>
+Two datasets were used in the process of this paper: 
+1.Wheat leaf dataset: available at link: https://www.kaggle.com/datasets/olyadgetch/wheat-leaf-dataset
+2.StripeRust-Net dataset: Our own wheat stripe rust leaf dataset collected at the Ezhou Research Station of Huazhong 
+Agricultural University in Hubei, China. 
+
+To obtain the StripeRust-Net dataset, please download the [StripeRust-Net Dataset Usage Agreement] and read the relevant regulations. If you agree to the terms, please fill in the required user information, [authorization period], and [electronic signature] in the agreement. Send the user agreement in PDF format to the specified email address liuweizhen@whut.edu.cn. After reviewing your submission, we will send the download link for the dataset via email.
 
 ## Citation <a name="Citation"></a>
 
