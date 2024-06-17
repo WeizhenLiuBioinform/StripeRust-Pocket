@@ -2,7 +2,15 @@
 
 This repository contains the code and dataset for the paper "StripeRust-Pocket: A Mobile-based Deep Learning Application for Efficient Disease Severity Assessment of Wheat Stripe Rust," accepted at Plant Phenomics. StripeRust-Pocket can accurately measure the severity of wheat stripe rust disease by taking photos or selecting photos from albums. It can also organize the result data and save the results in an Excel format and send them via email.
 
-## Start
+##  Table  of  Contents
+
+1.  [Start](#Start)  
+2.  [Application Installation](#Installation)  
+3.  [Application Code](#Code)  
+4.  [Dataset](#Dataset)  
+5.  [Citation](#Citation)  
+
+## Start <a name="Start"></a>
 
 First of all, due to the presence of large files in the repository, please go to the official website of git lfs to download the tool.
 
@@ -14,7 +22,7 @@ git clone https://github.com/WeizhenLiuBioinform/StripeRust-Pocket.git
 git lfs pull
 ```
 
-## Application-Installation
+## Application Installation <a name="Installation"></a>
 
 The installation files for the complete APP are located in the Application folder. Supports phones with Android version 9.0 or above.
 
@@ -40,7 +48,7 @@ The result display page presents the visual outcome of lesion segmentation, user
 ![The result display page](https://github.com/WeizhenLiuBioinform/StripeRust-Pocket/blob/master/Application_source_code/app/src/main/assets/The_result_display_page.jpg)
 
 
-## Application-Code
+## Application Code <a name="Code"></a>
 ### Prerequisites
 * Android studio 2021.3.1
 
@@ -59,4 +67,7 @@ MainActivity_table_2 uses Smart Table technology, as detailed in https://github.
 5. All static files are located in/app/src/main/res/layout. The style settings file and string settings file are 
 located in/app/src/main/res/values.
 
-## Dataset
+## Dataset <a name="Dataset"></a>
+
+## Citation <a name="Citation"></a>
+
