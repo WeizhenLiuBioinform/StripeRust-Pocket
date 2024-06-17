@@ -70,6 +70,7 @@ located in/app/src/main/res/values.
 ## Dataset <a name="Dataset"></a>
 Two datasets were used in the process of this paper: 
 1.Wheat leaf dataset: available at link: https://www.kaggle.com/datasets/olyadgetch/wheat-leaf-dataset
+
 2.StripeRust-Net dataset: Our own wheat stripe rust leaf dataset collected at the Ezhou Research Station of Huazhong 
 Agricultural University in Hubei, China. 
 
